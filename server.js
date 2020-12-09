@@ -2,14 +2,14 @@ const fastify = require('fastify')({ logger: true })
 const path = require('path')
 const fs = require('fs');
 
-let student={}
+let book={}
 fs.readFile('data.json', (err, data) => {
   if (err) throw err;
-  student = JSON.parse(data);
-  console.log(student);
+  book = JSON.parse(data);
+  console.log(book);
 });
 
-
+//to use ejs file 
 fastify.register(require('point-of-view'), {
   engine: {
     ejs: require('ejs')
@@ -22,15 +22,15 @@ fastify.register(require('fastify-static'), {
   })
 
 fastify.get('/', function (req, reply) {
-    reply.view('index.ejs',{data:student}) 
-    
+    reply.view('index.ejs',{data:book}) 
+    // request.log.info('Some info about the current request')
     // serving path.join(__dirname, 'public', 'myHtml.html') directly
   })
   
-// fastify.get('/path/with/different/root', function (req, reply) {
-//     return reply.sendFile('about.html', path.join(__dirname, 'build')) // serving a file from a different root location
-//   })
-
+fastify.get('/about', function (req, reply) {
+     reply.view('about.html') // serving a file from a different root location
+  })
+// listening for the request
 const start = async () => {
   try {
     await fastify.listen(3000)
