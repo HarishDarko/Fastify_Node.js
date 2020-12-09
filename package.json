@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/HarishDarko/Fastify_Node.js#readme",
   "dependencies": {
+    "ejs": "^3.1.5",
     "fastify": "^3.9.1",
+    "fastify-helmet": "^5.0.3",
     "fastify-static": "^3.3.0",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "point-of-view": "^4.7.0"
   }
 }

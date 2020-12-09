@@ -1,0 +1,44 @@
+[
+    {
+        "name":"5 POINT SOMEONE",
+        "review":"It is the story of 3 IIT students. It is clearly the storyline of how they ruined their life in the first 5 semesters and how they finally made into corporate jobs (or what they like) after realization. Ryan, wise and brilliant, pragmatical-science minded, who hate mug up study and IIT education system as well. Hari, who has no idea what to do in his life, always follows or tries to imitate to be Ryan. And, Alok — came from a poor & traditional family, who worked hard to get into IIT, wants a good corporate job after graduation to support his family and sick father.",
+        "imgurl":"/view/assets/img/portfolio/5someone.jpg",
+        "model":"#portfolioModal1",
+        "modellabel":"portfolioModal1Label"
+    },
+    {
+        "name":"2 STATES",
+        "review":"The novel is based on the story of a couple, who belongs to different states, castes and religion and wanted to get married. How they meet at IIMA campus and the way they convince their parents for their marriage is the actual plot of the novel. 2 States, as it is commonly called, is a very interesting novel, which is light and seems real as every second couple in India can relate to this story.",
+        "imgurl":"/view/assets/img/portfolio/2states.jpg",
+        "model":"#portfolioModal2",
+        "modellabel":"portfolioModal2Label"
+    },
+    {
+        "name":"ONE ARRANGED MURDER",
+        "review":"This novel tells the story of two young detectives Keshav and Saurabh. Prerna (Saurabh's fiancée) gets murdered on the day of Karwa Chauth in her own house amid all the celebrations. Can Keshav and Saurabh find out the killer? This forms the nub of this story.",
+        "imgurl":"/view/assets/img/portfolio/1arr.jpg",
+        "model":"#portfolioModal3",
+        "modellabel":"portfolioModal3Label"
+    },
+    {
+        "name":"THE 3 MISTAKES OF MY LIFE",
+        "review":"The setting is the city of Ahmedabad that though being urban is yet not as metropolitan as many of its metro counterparts. It retains its small town flavour in pols (colonies), traditional Indian households and small vegetarian eateries. It has the protagonist Govind with his passion and acumen for accounts and business, it has Ishan for whom cricket is the element around which his life revolves and it has Omi, a priest’s son and loyal friend who is ready for anything that his friends are game for.",
+        "imgurl":"/view/assets/img/portfolio/3mistakes.jpg",
+        "model":"#portfolioModal4",
+        "modellabel":"portfolioModal4Label"
+    },
+    {
+        "name":"REVOLUTION 2020",
+        "review":"It’s the story of a love triangle, set in the time of engineering entrance exams in Varanasi. Gopal, the narrator and son of a poor school teacher, gets into trouble the first time he meets Aarti. He steals from her lunch box on their first day in class V, and she complains to the teacher. He apologises to her, and the two become friends. Well into their teens now, Gopal realises that he loves Aarti. He tells her, but she rebuffs him.",
+        "imgurl":"/view/assets/img/portfolio/R20.jpeg",
+        "model":"#portfolioModal5",
+        "modellabel":"portfolioModal5Label"
+    },
+    {
+        "name":"THE GIRL AT ROOM 105",
+        "review":"The book boasts of a fresh storyline and a decent effort in terms of plot and plot twists. Mystery and entertainment also don’t come far behind. As is quite obvious from the blurb, The Girl in Room 105 is a story of a love gone wrong but not in a cliché-easy-guessed way. The book is basically a crime mystery in the garb of a romantic drama. Surely, there is a bit of both (romance and drama) but the suspense overpowers them in a big way.",
+        "imgurl":"/view/assets/img/portfolio/Room105.png",
+        "model":"#portfolioModal6",
+        "modellabel":"portfolioModal6Label"
+    }
+]
