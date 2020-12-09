@@ -19,3 +19,9 @@ Open this links after the terminal commands:
 http://localhost:3000/
 
 http://localhost:3000/about
+
+Screenshots of the webpage
+
+![](https://github.com/HarishDarko/Fastify_Node.js/blob/main/images/fastify.PNG)
+
+![](https://github.com/HarishDarko/Fastify_Node.js/blob/main/images/fastify2.PNG)
